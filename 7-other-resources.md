@@ -18,3 +18,12 @@ A short list of ones I like, but you can google for longer lists by more experie
 - Emmet for anything HTML-related
 - Case Conversion - gives you ability to convert to snake_case, camelCase, etc.
 
+4. Stuff that we didn't cover
+
+Either because we didn't have time or because I don't know about it...
+
+- Shortcuts for the sidebar. I haven't found anything that makes it really easy to create, move, copy, delete files (the plugin AdvancedNewFile is the closest I've gotten)
+- Shortcuts for splitting the screen into different layouts
+- Terminal shortcuts
+- Chrome shortcuts
+- The wide world of find/replace/global find etc.

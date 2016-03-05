@@ -71,6 +71,19 @@ Play around more with this kind of thing - it can save a lot of time since progr
 
 ************************
 
-As a final note, using command-d without a selection is the fastest way to select a full word...
+### Using command-d without a selection is the fastest way to select a full word...
 
 If I wanted to delete or select a super-long word like antidisestablishmentarianism, do I really want to scroll all the way to the beginning or end to do it?
+
+
+
+************************
+
+
+### once you have a selection, you can wrap it with many things just by typing that key
+
+
+Put single quotes around me
+Put double quotes around me
+Put square brackets around me
+Put curly braces around me
