@@ -56,5 +56,3 @@ end
 def baz
   puts "foobarbaz"
 end
-
-
