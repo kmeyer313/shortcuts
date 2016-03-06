@@ -5,7 +5,7 @@
 Highlight a word and press command d to select the next instance of it
 You now have multiple cursors! If you start typing, it'll enter in two places.
 If you hit command-d again, it'll select the next instance. Three cursors!
-Most normal text entry rules still apply... feel free to experiment.
+Most normal text entry rules still apply... feel free to experiment. Hit escape to get back to one
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### To select all instances in a file, use Command-Control-g.
 
-### If you go to far and wish you could take one back, use Command-u.
+### If you go to far and wish you could take one back, use Command-u. ## Often can use Command-u to undo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-
+####bathroom break
 ### If you want to skip some instances, select the instance, then hit command-k before you hit command-d for the next instance. Takes some getting used to.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -65,7 +65,7 @@ end
 
 
 Play around more with this kind of thing - it can save a lot of time since programs tend to repeat a lot of strings, variable names, etc.
-
+################# bathroom break
 
 
 
@@ -83,7 +83,7 @@ If I wanted to delete or select a super-long word like antidisestablishmentarian
 ### once you have a selection, you can wrap it with many things just by typing that key
 
 
-Put single quotes around me
-Put double quotes around me
-Put square brackets around me
-Put curly braces around me
+'Put single quotes around me'
+"Put double quotes around me"
+[Put square brackets around me]
+{Put curly braces around me}

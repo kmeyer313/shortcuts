@@ -2,6 +2,7 @@
 
 A snippet is a small chunk of code inserts text for you when you run the code. You can tie that snippet to triggers, so a common pattern is to write some code (like the word lorem), hit tab, and get some text back.
 
+html5 + tab in html file will create new file format
 
 Snippets are really cool! But we don't have time to talk about them, and the process is actually not too hard, so try these as resources to get started.
 

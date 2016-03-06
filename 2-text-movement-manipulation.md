@@ -10,9 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
 to here, without selecting anything
+Copy this text from here
 
 
 now try cutting it to here
+Copy this text from here
 
 ************************
 
@@ -50,7 +52,7 @@ class Foo
 end
 
 
-If we use Command - SHIFT - V, it fixes the indentation automatically!
+If we use Command - SHIFT - V, it fixes the indentation automatically!  *****************REMEMEMBER ME!*******************
 
 def baz
 end
@@ -60,6 +62,8 @@ class Foo
   def bar
   end
 
+  def baz
+  end
 end
 
 ************************
@@ -71,6 +75,7 @@ Lorem ipsum dolor sit amet, DUPLICATE ME, consectetur adipiscing elit.
 ### to duplicate a whole line, simply do that without making a selection.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
 
 ************************
 
